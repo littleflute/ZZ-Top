@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Tube Snake Boogie.mp3";		
+f[2]	= "02 I Wanna Drive You Home.mp3";		
+f[3]	= "03 Ten Foot Pole.mp3";		
+f[4]	= "04 Leila.mp3";		
+f[5]	= "05 Don't Tease Me.mp3";		
+f[6]	= "06 It's So Hard.mp3";		
+f[7]	= "07 Pearl Necklace.mp3";		
+f[8]	= "08 Groovy Little Hippie Pad.mp3";		
+f[9]	= "09 Heaven, Hell or Houston.mp3";		
+f[10]	= "10 Party on the Patio.mp3";		
