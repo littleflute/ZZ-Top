@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Gimme All Your Lovin'.mp3";		
+f[2]	= "02 Got Me Under Pressure.mp3";		
+f[3]	= "03 Sharp Dressed Man.mp3";		
+f[4]	= "04 I Need You Tonight.mp3";		
+f[5]	= "05 I Got the Six.mp3";		
+f[6]	= "06 Legs.mp3";		
+f[7]	= "07 Thug.mp3";		
+f[8]	= "08 TV Dinners.mp3";		
+f[9]	= "09 Dirty Dog.mp3";		
+f[10]	= "10 If I Could Only Flag Her Down.mp3";		
+f[11]	= "11 Bad Girl.mp3";		
