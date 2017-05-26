@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 I Thank You.mp3";		
+f[2]	= "02 She Loves My Automobile.mp3";		
+f[3]	= "03 I'm Bad, I'm Nationwide.mp3";		
+f[4]	= "04 A Fool for Your Stockings.mp3";		
+f[5]	= "05 Manic Mechanic.mp3";		
+f[6]	= "06 Dust My Broom.mp3";		
+f[7]	= "07 Low Down in the Street.mp3";		
+f[8]	= "08 Hi Fi Mama.mp3";		
+f[9]	= "09 Cheap Sunglasses.mp3";		
+f[10]	= "10 Esther Be the One.mp3";		
