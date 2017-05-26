@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 It's Only Love.mp3";		
+f[2]	= "02 Arrested for Driving While Blind.mp3";		
+f[3]	= "03 Diablo.mp3";		
+f[4]	= "04 Snappy Kakkie.mp3";		
+f[5]	= "05 Enjoy and Get It On.mp3";		
+f[6]	= "06 Ten Dollar Man.mp3";		
+f[7]	= "07 Pan Am Highway Blues.mp3";		
+f[8]	= "08 Avalon Hideaway.mp3";		
+f[9]	= "09 She's a Heartbreaker.mp3";		
+f[10]	= "10 Asleep in the Desert [Instrumental].mp3";		
