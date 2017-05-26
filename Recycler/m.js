@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Concrete and Steel.mp3";		
+f[2]	= "02 Lovething.mp3";		
+f[3]	= "03 Penthouse Eyes.mp3";		
+f[4]	= "04 Tell It.mp3";		
+f[5]	= "05 My Head's in Mississippi.mp3";		
+f[6]	= "06 Decision or Collision.mp3";		
+f[7]	= "07 Give It Up.mp3";		
+f[8]	= "08 2000 Blues.mp3";		
+f[9]	= "09 Burger Man.mp3";		
+f[10]	= "10 Doubleback.mp3";		
