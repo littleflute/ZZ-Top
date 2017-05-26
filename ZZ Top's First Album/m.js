@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 (Somebody Else Been) Shaking Your Tree.mp3";		
+f[2]	= "02 Brown Sugar.mp3";		
+f[3]	= "03 Squank.mp3";		
+f[4]	= "04 Goin' Down to Mexico.mp3";		
+f[5]	= "05 Old Man.mp3";		
+f[6]	= "06 Neighbor, Neighbor.mp3";		
+f[7]	= "07 Certified Blues.mp3";		
+f[8]	= "08 Bedroom Thang.mp3";		
+f[9]	= "09 Just Got Back from Baby's.mp3";		
+f[10]	= "10 Backdoor Love Affair.mp3";		
