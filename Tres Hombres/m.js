@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Waitin' for the Bus.mp3";		
+f[2]	= "02 Jesus Just Left Chicago.mp3";		
+f[3]	= "03 Beer Drinkers & Hell Raisers.mp3";		
+f[4]	= "04 Master of Sparks.mp3";		
+f[5]	= "05 Hot, Blue and Righteous.mp3";		
+f[6]	= "06 Move Me On down the Line.mp3";		
+f[7]	= "07 Precious and Grace.mp3";		
+f[8]	= "08 La Grange.mp3";		
+f[9]	= "09 Sheik.mp3";		
+f[10]	= "10 Have You Heard-.mp3";		
