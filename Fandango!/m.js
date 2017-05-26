@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Thunderbird.mp3";		
+f[2]	= "02 Jailhouse Rock.mp3";		
+f[3]	= "03 Backdoor Medley- Backdoor Love Affair-Mellow Down Easy-Backdoor Love.mp3";		
+f[4]	= "04 Nasty Dogs and Funky Kings.mp3";		
+f[5]	= "05 Blue Jean Blues.mp3";		
+f[6]	= "06 Balinese.mp3";		
+f[7]	= "07 Mexican Blackbird.mp3";		
+f[8]	= "08 Heard It on the X.mp3";		
+f[9]	= "09 Tush.mp3";		
