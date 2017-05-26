@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Francine.mp3";		
+f[2]	= "02 Just Got Paid.mp3";		
+f[3]	= "03 Mushmouth Shoutin'.mp3";		
+f[4]	= "04 Ko Ko Blue.mp3";		
+f[5]	= "05 Chevrolet.mp3";		
+f[6]	= "06 Apologies to Pearly.mp3";		
+f[7]	= "07 Bar-B-Q.mp3";		
+f[8]	= "08 Sure Got Cold After the Rain Fell.mp3";		
+f[9]	= "09 Whiskey'n Mama.mp3";		
+f[10]	= "10 Down Brownie.mp3";		
