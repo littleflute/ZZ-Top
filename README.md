@@ -1,4 +1,4 @@
-[v0.0.6](https://github.com/littleflute/ZZ-Top/edit/master/README.md)
+[v0.0.7](https://github.com/littleflute/ZZ-Top/edit/master/README.md)
 
 [Afterburner](Afterburner)
 
@@ -10,5 +10,12 @@
 
 [Fandango!](Fandango!)
 
+
+
+[https://littleflute.github.io/zz-top](https://littleflute.github.io/zz-top)
+
+[https://littleflute.github.io/zz-top1](https://littleflute.github.io/zz-top1)
+
+[https://littleflute.github.io/zz-top2](https://littleflute.github.io/zz-top2)
 
 
